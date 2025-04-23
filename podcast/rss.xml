@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daily Video Games Digest</title>
+    <link>https://daily-podcast-files.onrender.com/podcast/</link>
+    <description>Quick daily updates on the biggest video game announcements, sales data, player milestones, and reviews. Hosted by Dany Waksman and powered by AI.</description>
+    <language>en-us</language>
+    <copyright>Dany Waksman 2025</copyright>
+    <itunes:author>Dany Waksman</itunes:author>
+    <itunes:owner>
+      <itunes:name>Dany Waksman</itunes:name>
+      <itunes:email>dany.waksman@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://daily-podcast-files.onrender.com/podcast/podcast-cover.jpg" />
+
+    <item>
+      <title>April 23 - Gaming News Digest</title>
+      <description>Gaming news highlights summarized by Dany Waksman.
+
+- The New Google Streamer 4K Has Dropped in Price for the First Time Ever: https://www.ign.com/articles/google-streamer-4k-deal-2025
+- The Last of Us' Latest Episode Had a Special Voice Cameo From Ellie's Original Voice Actor, Ashley Johnson: https://www.ign.com/articles/the-last-of-us-latest-episode-had-a-special-voice-cameo-from-ellies-original-voice-actor-ashley-johnson
+- AU Deals: Score the Lowest Prices on The Last of Us 2, LEGO, Horizon, and LEGO Horizon!: https://www.ign.com/articles/au-deals-score-the-lowest-prices-on-the-last-of-us-2-lego-horizon-and-lego-horizon
+- The Last of Us season 2, episode 2: The biggest changes between the HBO show and the PlayStation game: https://www.gamesradar.com/entertainment/drama-shows/the-last-of-us-season-2-episode-2-the-biggest-changes-between-the-hbo-show-and-the-playstation-game/</description>
+      <enclosure url="https://daily-podcast-files.onrender.com/podcast/final_podcast_2025-04-23.mp3" length="5000000" type="audio/mpeg" />
+      <guid>2025-04-23</guid>
+      <pubDate>Wed, 23 Apr 2025 06:00:00 GMT</pubDate>
+    </item>
+    
+  </channel>
+</rss>
